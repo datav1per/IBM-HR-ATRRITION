@@ -51,7 +51,7 @@ The dataset contains **35 features** for **1,470 employees**, covering:
 - `model_summary.csv` – Model evaluation metrics  
 - `all_employee_risks.csv` – Attrition risk scores for all employees  
 - `top10_risk_new.csv` – Top 10 high-risk employees  
-- `powerbi_dashboard.pbix` – Power BI dashboard
+- `dashboard.pbix` – Power BI dashboard
 
 ---
 
